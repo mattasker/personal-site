@@ -1,200 +1,98 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Matthew Asker",
+    "label": "PhD student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mmmwa@leeds.ac.uk",
+    "phone": "",
+    "url": "https://masker.science",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Leeds",
+      "countryCode": "UK",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Bluesky",
+        "username": "masker.science",
+        "url": "https://bsky.app/profile/masker.science"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Leeds, Leeds, United Kingdom",
+      "location": "Leeds, United Kingdom",
+      "url": "https://eps.leeds.ac.uk/maths",
+      "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "startDate": "2021-10-01",
+      "endDate": "2025-10-01",
+      "courses": ["Advanced Mathematical Methods", "Advanced Nonlinear
+Dynamics", "Advanced Evolutionary Modelling"]
+    },
+    {
+      "institution": "University of Manchester, Manchester, United Kingdom",
+      "location": "Manchester, United Kingdom",
+      "url": "https://www.physics.manchester.ac.uk/",
+      "area": "Theoretical Physics",
+      "studyType": "MPhys",
+      "startDate": "2017-01-09",
+      "endDate": "2021-06-01",
+      "score": "First class"
+    },
   ],
-  "awards": [
+  "grants and awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "ECR Travel Grant",
+      "date": "2024-03-19",
+      "awarder": "London Mathematical Society",
+      "url": "https://www.lms.ac.uk/grants/lms-travel-grants-early-career-researchers",
+      "summary": "An award of £500 to provide partial support for UK-based early career researchers to attend conferences or undertake research visits. 58% success rate."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Best talk in Applied Mathematics",
+      "date": "2023-06-14",
+      "awarder": "University of Leeds",
+      "summary": "A prize given to the best talk in the applied department at the annual PGR conference in the School of Mathematics."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "PRACE Summer of HPC Scholarship",
+      "date": "2020-06-01",
+      "awarder": "Partnership for Advanced Computing in Europe (PRACE)",
+      "summary": "A scholarship covering accommodation, travel costs, and a stipend for an intensive 2 month research programme at a high-performance computing centre in Europe. Held remotely due to COVID."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Physics Entrance Scholarship",
+      "date": "2017-11-08",
+      "awarder": "University of Manchester",
+      "summary": "An award of £1000 for outstanding results (A*A*A*) in pre-university exams."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Eco-evolutionary dynamics of cooperative antimicrobial resistance in a population of fluctuating volume and size",
+      "publisher": "Journal of Physics A: Mathematical and Theoretical",
+      "releaseDate": "2024-06-17",
+      "url": "https://doi.org/10.1088/1751-8121/ad4ad6",
+      "summary": "Antimicrobial resistance to drugs (AMR), a global threat to human and animal health, is often regarded as resulting from cooperative behaviour. Moreover, microbes generally evolve in volatile environments that, together with demographic fluctuations (birth and death events), drastically alter population size and strain survival. Motivated by the need to better understand the evolution of AMR, we study a population of time-varying size consisting of two competing strains, one drug-resistant and one drug-sensitive, subject to demographic and environmental variability. This is modelled by a binary carrying capacity randomly switching between mild and harsh environmental conditions, and driving the fluctuating volume (total amount of nutrients and antimicrobials at fixed concentration), and thus the size of the community (number of resistant and sensitive cells). We assume that AMR is a shared public good when the concentration of resistant cells exceeds a fixed concentration cooperation threshold, above which the sensitive strain has a growth advantage, whereas resistant cells dominate below it. Using computational means, and devising an analytical treatment (built on suitable quenched and annealed averaging procedures), we fully characterise the influence of fluctuations on the eco-evolutionary dynamics of AMR, and notably obtain specific strain fixation and long-lasting coexistence probabilities as a function of the environmental variation rate and cooperation threshold. We find that microbial strains tend to coexistence, but demographic fluctuations eventually lead to the extinction of resistant or sensitive cells for small or large values of the concentration cooperation threshold, respectively. This also holds for dynamic environments, whose specific properties determine the extinction timescale."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Coexistence of competing microbial strains under twofold environmental variability and demographic fluctuations",
+      "publisher": "New Journal of Physics",
+      "releaseDate": "2023-12-06",
+      "url": "https://doi.org/10.1088/1367-2630/ad0d36",
+      "summary": "Microbial populations generally evolve in volatile environments, under conditions fluctuating between harsh and mild, e.g. as the result of sudden changes in toxin concentration or nutrient abundance. Environmental variability (EV) thus shapes the long-time population dynamics, notably by influencing the ability of different strains of microorganisms to coexist. Inspired by the evolution of antimicrobial resistance, we study the dynamics of a community consisting of two competing strains subject to twofold EV. The level of toxin varies in time, favouring the growth of one strain under low drug concentration and the other strain when the toxin level is high. We also model time-changing resource abundance by a randomly switching carrying capacity that drives the fluctuating size of the community. While one strain dominates in a static environment, we show that species coexistence is possible in the presence of EV. By computational and analytical means, we determine the environmental conditions under which long-lived coexistence is possible and when it is almost certain. Notably, we study the circumstances under which environmental and demographic fluctuations promote, or hinder, the strains coexistence. We also determine how the make-up of the coexistence phase and the average abundance of each strain depend on the EV."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Coupled environmental and demographic fluctuations shape the evolution of cooperative antimicrobial resistance",
+      "publisher": "Journal of the Royal Society Interface",
+      "releaseDate": "2023-11-01",
+      "url": "https://doi.org/10.1098/rsif.2023.0393",
+      "summary": "There is a pressing need to better understand how microbial populations respond to antimicrobial drugs, and to find mechanisms to possibly eradicate antimicrobial-resistant cells. The inactivation of antimicrobials by resistant microbes can often be viewed as a cooperative behaviour leading to the coexistence of resistant and sensitive cells in large populations and static environments. This picture is, however, greatly altered by the fluctuations arising in volatile environments, in which microbial communities commonly evolve. Here, we study the eco-evolutionary dynamics of a population consisting of an antimicrobial-resistant strain and microbes sensitive to antimicrobial drugs in a time-fluctuating environment, modelled by a carrying capacity randomly switching between states of abundance and scarcity. We assume that antimicrobial resistance (AMR) is a shared public good when the number of resistant cells exceeds a certain threshold. Eco-evolutionary dynamics is thus characterised by demographic noise (birth and death events) coupled to environmental fluctuations which can cause population bottlenecks. By combining analytical and computational means, we determine the environmental conditions for the long-lived coexistence and fixation of both strains, and characterise a fluctuation-driven AMR eradication mechanism, where resistant microbes experience bottlenecks leading to extinction. We also discuss the possible applications of our findings to laboratory-controlled experiments."
     }
   ]
 }
